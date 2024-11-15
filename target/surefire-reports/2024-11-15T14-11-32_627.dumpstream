@@ -1,0 +1,5 @@
+# Created at 2024-11-15T14:11:32.897
+Boot Manifest-JAR contains absolute paths in classpath 'P:\UPIIZ\UPIIZ_7semestre\AplicacionesWeb\Security_InMemory\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
